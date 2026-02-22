@@ -1,3 +1,11 @@
+---
+type: project
+updated: 2026-01-03
+project: obsidian-claude-code-mcp
+area: servers
+path: D:\servers\obsidian-claude-code-mcp
+status: active
+---
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.

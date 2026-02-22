@@ -1,3 +1,9 @@
+---
+type: note
+updated: 2026-01-03
+area: servers
+project: obsidian-claude-code-mcp
+---
 # Automated Patch Release Process
 
 This document describes the automated process for creating patch releases on GitHub. This process is only for patch releases (e.g., 1.1.6 → 1.1.7). Minor and major releases should continue to be done manually.

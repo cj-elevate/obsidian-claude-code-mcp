@@ -1,3 +1,9 @@
+---
+type: note
+updated: 2026-01-03
+area: servers
+project: obsidian-claude-code-mcp
+---
 # Community Plugin Submission Guide
 
 This document provides step-by-step instructions for submitting the Claude Code Editor & MCP plugin to the Obsidian Community Plugin Directory.

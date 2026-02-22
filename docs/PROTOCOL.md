@@ -1,3 +1,9 @@
+---
+type: note
+updated: 2026-01-03
+area: servers
+project: obsidian-claude-code-mcp
+---
 # Claude Code WebSocket Protocol Documentation
 
 This document describes the WebSocket-based Model Context Protocol (MCP) that Claude Code uses to communicate with IDE integrations.

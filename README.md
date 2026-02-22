@@ -1,3 +1,10 @@
+---
+type: doc
+doc: readme
+updated: 2026-01-03
+project: obsidian-claude-code-mcp
+area: servers
+---
 # Obsidian Claude Code
 
 An Obsidian plugin that implements an MCP (Model Context Protocol) server to enable Claude Code integration with Obsidian vaults.

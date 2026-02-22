@@ -1,3 +1,9 @@
+---
+type: note
+updated: 2026-01-03
+area: servers
+project: obsidian-claude-code-mcp
+---
 # Release Checklist for Obsidian Community Plugin
 
 This checklist ensures the plugin meets all requirements for Obsidian community plugin submission.
